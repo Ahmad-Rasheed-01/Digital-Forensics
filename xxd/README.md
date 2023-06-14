@@ -1,5 +1,5 @@
 Find the path of the USB drive by using:
-      lsblk
+''' lsblk
 
 
 ![Image-lsblk](1.lsblk.png)
