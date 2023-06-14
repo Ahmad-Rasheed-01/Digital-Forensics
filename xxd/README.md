@@ -6,6 +6,9 @@
       https://en.wikipedia.org/wiki/List_of_file_signatures
 
 ## Guide
+
+> **Note**: Some of the commands can take upto 15-20 minutes if using a virtual environment.
+
 #### 1. Find the path of the USB drive by using.
       lsblk
 <img src="1.lsblk.png" alt="Image Alt Text" width="500" height="250">
@@ -13,7 +16,7 @@
 #### 2. Create Forensic Image using dd command.
       sudo dd if=/dev/sdb of=image.dd
 
-> **Note**: This step can take upto 15-20 minutes if you are using a virtual environment.
+> ***Note***: This step can take upto 15-20 minutes if you are using a virtual environment.
 
 <img src="2.image.png" alt="Image Alt Text" width="600" height="300">
 
