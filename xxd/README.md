@@ -33,6 +33,6 @@
 
 By testing each offset at last step, I find that the second one is the actual offset address of the file. Divide the number of bytes, 15716353, by 512, which is the number of bytes per sector, which gives approximately 30696 as the starting sector.
 
-#### 5. Now use the xxd utility to get a hex dump of file and then pipe that into grep, to search for the two bytes we need, which are ‘ff d9’. But we search for ‘d9 ff’ as we are dealing with an intel system and such systems use little endian. Click here for more information about [Endian Conversion](https://blockchain-academy.hs-mittweida.de/litte-big-endian-converter/#:~:text=Big%2Dendian%20is%20an%20order,the%20sequence)%20is%20stored%20first.)
+#### 5. Now use the xxd utility to get a hex dump of file and then pipe that into grep, to search for the two bytes we need, which are ‘ff d9’. But we search for ‘d9 ff’ as we are dealing with an intel system and such systems use little endian. Click here for more information about [Endian Conversion](https://blockchain-academy.hs-mittweida.de/litte-big-endian-converter/)
 
 <!-- ![lsblk](1.lsblk.png) -->
