@@ -5,5 +5,5 @@
 ## **Table of contents**
 
 1. [Data Carving](https://github.com/Ahmad-Rasheed-01/Digital-Forensics#Data-carving)
-  -  [Linux](https://github.com/Ahmad-Rasheed-01/Digital-Forensics#Linux)
-  -  [Windows](https://github.com/Ahmad-Rasheed-01/Digital-Forensics#windows)
+    - [Linux](https://github.com/Ahmad-Rasheed-01/Digital-Forensics#Linux)
+    - [Windows](https://github.com/Ahmad-Rasheed-01/Digital-Forensics#windows)
