@@ -4,4 +4,4 @@
 <!-- ![lsblk](1.lsblk.png) -->
 ###### 2. Create Forensic Image using dd command.
       sudo dd if=/dev/sdb of=image.dd
-![Image](2.image.png)
+<!-- ![Image](2.image.png) -->
