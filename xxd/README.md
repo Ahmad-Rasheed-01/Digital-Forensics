@@ -16,11 +16,16 @@
 #### 2. Create Forensic Image using dd command.
       sudo dd if=/dev/sdb of=image.dd
 
-> ****Note:**** This step can take upto 15-20 minutes if you are using a virtual environment.
+> ****Note:**** In my case, I have /sdb, you may be have some other name.
 
 <img src="2.image.png" alt="Image Alt Text" width="600" height="300">
 
 #### 3. Verify that ‘PNG’ files exist within the forensic image.
+      grep PNG image.dd
+
+> ****Note:**** I have used an image with png extension. You may have a jpeg, jpg or some other file type.
+
+<img src="3.png.png" alt="Image Alt Text" width="500" height="250">
 
 
 <!-- ![lsblk](1.lsblk.png) -->
