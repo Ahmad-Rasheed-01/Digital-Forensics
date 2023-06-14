@@ -9,8 +9,8 @@
 ###### 3. Verify that ‘PNG’ files exist within the forensic image.
 
 
-
-#### **Useful Links**
+----
+#### Useful Links
 ###### 1. File Signatures Table
       https://sceweb.sce.uhcl.edu/abeysekera/itec3831/labs/FILE%20SIGNATURES%20TABLE.pdf
 
