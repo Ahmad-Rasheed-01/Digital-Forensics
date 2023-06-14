@@ -12,9 +12,10 @@
 
 #### 2. Create Forensic Image using dd command.
       sudo dd if=/dev/sdb of=image.dd
-<img src="2.image.png" alt="Image Alt Text" width="600" height="300">
 
 > **Note**: This step can take upto 10-15 minutes depending upon the performance of operating system and USB.
+
+<img src="2.image.png" alt="Image Alt Text" width="600" height="300">
 
 #### 3. Verify that ‘PNG’ files exist within the forensic image.
 
