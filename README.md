@@ -10,4 +10,5 @@
     - [Windows](https://github.com/Ahmad-Rasheed-01/Digital-Forensics#windows)
 
 ## **xxd Tool**
-[Click to open](xxd/README.md)
+The Linux xxd command is a hex dumper, implying that with the use of the xxd command, you can dump the contents of any file into hexadecimal numbers.
+[Complete Guide](xxd/README.md)
