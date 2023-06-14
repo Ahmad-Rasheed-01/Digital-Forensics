@@ -11,4 +11,4 @@
 
 ## **xxd Tool**
 The Linux xxd command is a hex dumper, implying that with the use of the xxd command, you can dump the contents of any file into hexadecimal numbers. Click here to open 
-[Complete Guide](xxd/README.md)
+[complete guide](xxd/README.md)
