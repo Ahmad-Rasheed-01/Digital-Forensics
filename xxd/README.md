@@ -16,7 +16,7 @@
 #### 2. Create Forensic Image using dd command.
       sudo dd if=/dev/sdb of=image.dd
 
-> ****Note:**** In my case, I have /sdb, you may be have some other name.
+> ****Note:**** In my case, I have /sdb, you may have some other name e.g. /sdc
 
 <img src="2.image.png" alt="Image Alt Text" width="600" height="300">
 
@@ -27,7 +27,7 @@
 
 <img src="3.png.png" alt="Image Alt Text" width="500" height="250">
 
-#### 4. 4.	Find the offset of ‘PNG’ file using the grep command along with ‘oba’ flag, to only output the matching part of the line and print the byte offset of each match. 
+#### 4. Find the offset of ‘PNG’ file using the grep command along with ‘oba’ flag, to only output the matching part of the line and print the byte offset of each match. 
 
 <img src="4.oba.png" alt="Image Alt Text" width="500" height="250">
 
