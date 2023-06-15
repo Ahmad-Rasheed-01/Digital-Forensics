@@ -38,4 +38,7 @@ By testing each offset at last step, I find that the second one is the actual of
 <img src="5.xxd.png" alt="Image Alt Text" width="500" height="250">
 
 Do the same to the ending sector, after converting ‘00f3bbb0’ to decimal first, we get 17021872, that is 33245 sectors. 
-<!-- ![lsblk](1.lsblk.png) -->
+
+#### 6. Now we can grab those blocks out of the disk image using dd command.
+
+<img src="6.capture.png" alt="Image Alt Text" width="500" height="250">
