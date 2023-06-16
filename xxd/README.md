@@ -38,7 +38,7 @@ By testing each offset at last step, I find that the second one is the actual of
 <img src="5.xxd.png" alt="Image Alt Text" width="500" height="250">
 
 Do the same to the ending sector, after converting ‘00f3bbb0’ to decimal first, we get 17021872, that is 33245 sectors. </br>
-for details about conversion, [click here](https://github.com/Ahmad-Rasheed-01/Digital-Forensics/edit/main/xxd/table/README.md)
+for details about conversion, [click here](https://github.com/Ahmad-Rasheed-01/Digital-Forensics/edit/main/xxd/table)
 #### 6. Now we can grab those blocks out of the disk image using dd command.
 
 <img src="6.capture.png" alt="Image Alt Text" width="500" height="250">
